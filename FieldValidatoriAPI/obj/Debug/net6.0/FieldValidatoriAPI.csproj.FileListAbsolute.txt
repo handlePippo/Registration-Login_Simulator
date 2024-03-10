@@ -1,0 +1,11 @@
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\bin\Debug\net6.0\FieldValidatoriAPI.deps.json
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\bin\Debug\net6.0\FieldValidatoriAPI.dll
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\bin\Debug\net6.0\FieldValidatoriAPI.pdb
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\FieldValidatoriAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\FieldValidatoriAPI.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\FieldValidatoriAPI.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\FieldValidatoriAPI.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\FieldValidatoriAPI.dll
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\refint\FieldValidatoriAPI.dll
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\FieldValidatoriAPI.pdb
+C:\Users\filip\OneDrive\Desktop\.NET C#\Gavin Lon Course C#\Delegates\DelegatesClubExample\ClubMembershipApplication\FieldValidatoriAPI\obj\Debug\net6.0\ref\FieldValidatoriAPI.dll
